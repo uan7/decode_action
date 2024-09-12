@@ -1,4 +1,4 @@
-//Sat Sep 07 2024 16:18:01 GMT+0000 (Coordinated Universal Time)
+//Thu Sep 12 2024 03:31:50 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 require("global-agent/bootstrap");
